@@ -16,3 +16,4 @@ int main()
     std::cout << suma ;
     return 0;
 }
+Таня ...
