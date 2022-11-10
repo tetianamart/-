@@ -15,6 +15,4 @@ int main()
     }
     std::cout << suma ;
     return 0;
-}Таня ... .|.
-    
-*** вам а не с++
+}
